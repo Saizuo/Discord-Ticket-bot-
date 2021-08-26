@@ -1,0 +1,7 @@
+{
+  "prefix": "!",
+  "status":{
+    		"name": "tickets!",
+    		"type": "streaming"
+    	}
+}
