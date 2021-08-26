@@ -2,7 +2,7 @@
 
 <a href="https://replit.com/@MashimasHeros/Saizuo-x-Button-Bot?v=1" Click Here To Fork On Replit> </heref>
 
-- Easy ticket bot in djs with buttons!
+- Click On Me To Fork!
 
 ### **How to use?**
 - Modify the setting in the `config.json` file
